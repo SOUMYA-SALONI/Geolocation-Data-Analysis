@@ -1,5 +1,5 @@
 # Geolocation-Data-Analysis
-This project with deals locating the hotels and food services in a area to enable a individual to avail there preference food when desired.
+This project deals with locating the hotels and food services in a area to enable a individual to avail there preference food when desired.
 Food delivery apps aside, managers of restaurant chains and hotels can also leverage this information.
 In the fast-moving, effort-intense environment that the average person inhabits, It’s a
 frequent occurrence that one is too tired to fix oneself a home-cooked meal. And of course,
